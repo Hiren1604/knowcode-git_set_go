@@ -93,7 +93,7 @@ SHGs often face challenges such as limited market access, inadequate financial s
 
 ---
 
-## Technology Stack
+## Technology Stack:
 
 - **Frontend:** React.js
 - **Backend:** Node.js with Express.js
